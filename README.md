@@ -48,6 +48,3 @@ I enjoy working with data, automation, and web technologies, and I'm always expl
 - [LinkedIn](https://www.linkedin.com/in/nikoletta-michailidou-74284b21b/)
 
 ---
-
-<!-- Optional: Add GitHub stats (requires public contributions) -->
-![Nikol's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolmichaelidou&show_icons=true&hide_title=true)
